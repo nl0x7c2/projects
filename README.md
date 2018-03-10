@@ -4,7 +4,7 @@ test
 - 第一章
 - 第二章
 - 第三章
-```
+```javascript
 function demo(a, b) {
   return a + b;
 }
